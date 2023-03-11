@@ -1,3 +1,5 @@
 Lab4
 __pycache__/
-*.db
+*.db.env
+.env
+venv/
